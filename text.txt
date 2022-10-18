@@ -1,0 +1,12 @@
+Scegliere cosa guardare su Netflix
+
+INIZIO
+
+Aprire Netflix
+Prendere tutti i contenuti disponibili
+Rimuovere dalla lista tutti i contenuti già visualizzati
+Generare una lista di contenuti in base ai generi dei contenuti più visti
+Leggere la trama dei film consigliati
+If è di proprio gradimento avviare lo straming
+Else Rimouvere il contenuto dalla lista dei consigliati e leggere la trama del contenuto successivo
+Fine 
